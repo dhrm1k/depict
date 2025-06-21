@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.App-header {
+  margin-bottom: 30px;
+}
+
+.App-header h1 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.App-header p {
+  color: #666;
+  font-size: 18px;
+}
+
+.error-message {
+  background-color: #fee;
+  color: #c33;
+  padding: 15px;
+  border-radius: 8px;
+  margin: 20px 0;
+  border: 1px solid #fcc;
+}
+
+.project-links {
+  margin-top: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.github-link {
+  background-color: #333;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 20px;
+  text-decoration: none;
+  font-size: 14px;
+  transition: background-color 0.2s;
+}
+
+.github-link:hover {
+  background-color: #555;
+}
+
+.built-by {
+  font-size: 14px;
+  color: #666;
+}
+
+.built-by a {
+  color: #4CAF50;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.built-by a:hover {
+  text-decoration: underline;
+}
