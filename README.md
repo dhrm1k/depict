@@ -20,8 +20,9 @@ We scraped data from [Museums of India](https://www.museumsofindia.gov.in/) and 
 
 ## Live Demo
 
-<!-- 🔗 **[Try it here!](YOUR_DEPLOYED_URL)**    -->
-Have not yet deployed because I used the free tier I was allocated this month. Will continue this next month and host it. But if anyone wants to try it locally, it does work.
+🔗 **[Try it here!](https://museum-clip-2.vercel.app/)**
+It will work till my free tier allocated this month is completely used. I am already 80% gone. Use till this works.   
+<!-- Have not yet deployed because I used the free tier I was allocated this month. Will continue this next month and host it. But if anyone wants to try it locally, it does work. -->
 
 **Note:** The live demo only includes embeddings for a subset of the data (ngma_blr.json & nat_del.json) due to compute limitations. The original plan was to generate embeddings for all museum records, but Google Colab doesn't handle this many images well, and Modal AI's free tier has its limits (we're students, after all 😅).
 
