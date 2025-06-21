@@ -2,7 +2,7 @@
 
 **AI-powered visual search for www.museumsofindia.gov.in**
 
-*Inspired by [@ekzhang/dispict](https://github.com/ekzhang/dispict) - because great ideas deserve great implementations.*
+*Inspired by [@ekzhang/dispict](https://github.com/ekzhang/dispict).*
 
 ---
 
